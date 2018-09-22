@@ -1,12 +1,117 @@
 fileFormatVersion: 2
 guid: 7ec648a0e676f35408d7ae1297b59a03
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Conversation_0
+    21300002: Conversation_1
+    21300004: Conversation_2
+    21300006: Conversation_3
+    21300008: Conversation_4
+    21300010: Conversation_5
+    21300012: Conversation_6
+    21300014: Conversation_7
+    21300016: Conversation_8
+    21300018: Conversation_9
+    21300020: Conversation_10
+    21300022: Conversation_11
+    21300024: Conversation_12
+    21300026: Conversation_13
+    21300028: Conversation_14
+    21300030: Conversation_15
+    21300032: Conversation_16
+    21300034: Conversation_17
+    21300036: Conversation_18
+    21300038: Conversation_19
+    21300040: Conversation_20
+    21300042: Conversation_21
+    21300044: Conversation_22
+    21300046: Conversation_23
+    21300048: Conversation_24
+    21300050: Conversation_25
+    21300052: Conversation_26
+    21300054: Conversation_27
+    21300056: Conversation_28
+    21300058: Conversation_29
+    21300060: Conversation_30
+    21300062: Conversation_31
+    21300064: Conversation_32
+    21300066: Conversation_33
+    21300068: Conversation_34
+    21300070: Conversation_35
+    21300072: Conversation_36
+    21300074: Conversation_37
+    21300076: Conversation_38
+    21300078: Conversation_39
+    21300080: Conversation_40
+    21300082: Conversation_41
+    21300084: Conversation_42
+    21300086: Conversation_43
+    21300088: Conversation_44
+    21300090: Conversation_45
+    21300092: Conversation_46
+    21300094: Conversation_47
+    21300096: Conversation_48
+    21300098: Conversation_49
+    21300100: Conversation_50
+    21300102: Conversation_51
+    21300104: Conversation_52
+    21300106: Conversation_53
+    21300108: Conversation_54
+    21300110: Conversation_55
+    21300112: Conversation_56
+    21300114: Conversation_57
+    21300116: Conversation_58
+    21300118: Conversation_59
+    21300120: Conversation_60
+    21300122: Conversation_61
+    21300124: Conversation_62
+    21300126: Conversation_63
+    21300128: Conversation_64
+    21300130: Conversation_65
+    21300132: Conversation_66
+    21300134: Conversation_67
+    21300136: Conversation_68
+    21300138: Conversation_69
+    21300140: Conversation_70
+    21300142: Conversation_71
+    21300144: Conversation_72
+    21300146: Conversation_73
+    21300148: Conversation_74
+    21300150: Conversation_75
+    21300152: Conversation_76
+    21300154: Conversation_77
+    21300156: Conversation_78
+    21300158: Conversation_79
+    21300160: Conversation_80
+    21300162: Conversation_81
+    21300164: Conversation_82
+    21300166: Conversation_83
+    21300168: Conversation_84
+    21300170: Conversation_85
+    21300172: Conversation_86
+    21300174: Conversation_87
+    21300176: Conversation_88
+    21300178: Conversation_89
+    21300180: Conversation_90
+    21300182: Conversation_91
+    21300184: Conversation_92
+    21300186: Conversation_93
+    21300188: Conversation_94
+    21300190: Conversation_95
+    21300192: Conversation_96
+    21300194: Conversation_97
+    21300196: Conversation_98
+    21300198: Conversation_99
+    21300200: Conversation_100
+    21300202: Conversation_101
+    21300204: Conversation_102
+    21300206: Conversation_103
+    21300208: Conversation_104
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -34,13 +139,13 @@ TextureImporter:
     filterMode: -1
     aniso: -1
     mipBias: -100
-    wrapU: -1
-    wrapV: -1
+    wrapU: 1
+    wrapV: 1
     wrapW: -1
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -49,9 +154,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   maxTextureSizeSet: 0
@@ -69,13 +174,2179 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Conversation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3362
+        width: 1031
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e4f2e2c16327e4abaa7a8866e6b72c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_1
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 3362
+        width: 1042
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3de8da4bc78eb4e9ea164471096261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_2
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 3362
+        width: 1043
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc83f18ecd73654e8c7e982835b7801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_3
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 3362
+        width: 1043
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677e93c50a8eb5d4ea4dcde4ca75995e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_4
+      rect:
+        serializedVersion: 2
+        x: 4286
+        y: 3362
+        width: 1042
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51f061ca8daf864a9a4805b3e5f5adc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_5
+      rect:
+        serializedVersion: 2
+        x: 5360
+        y: 3362
+        width: 1043
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9b039c75ca194489e8c7af50676d3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_6
+      rect:
+        serializedVersion: 2
+        x: 6434
+        y: 3362
+        width: 1043
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f39b304d16fc745b65a315d32d5e72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_7
+      rect:
+        serializedVersion: 2
+        x: 7509
+        y: 3362
+        width: 1042
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b33a5a4af41aa7469b2b337889d297e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_8
+      rect:
+        serializedVersion: 2
+        x: 8583
+        y: 3362
+        width: 1043
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c82a2e9670983343bde3bfd6257accf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_9
+      rect:
+        serializedVersion: 2
+        x: 9657
+        y: 3362
+        width: 1043
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84958ace4084314cafbdafd4264da53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_10
+      rect:
+        serializedVersion: 2
+        x: 10732
+        y: 3362
+        width: 1042
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fad25ece8f259e459fe06994eababfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_11
+      rect:
+        serializedVersion: 2
+        x: 11806
+        y: 3362
+        width: 1043
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cdc17c06a6fde43afd5e080c046663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_12
+      rect:
+        serializedVersion: 2
+        x: 12880
+        y: 3362
+        width: 1043
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43786f63e870a24489ca67674fe35d99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_13
+      rect:
+        serializedVersion: 2
+        x: 13955
+        y: 3362
+        width: 1042
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfaf778295bb844a91b2134706477a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_14
+      rect:
+        serializedVersion: 2
+        x: 15029
+        y: 3362
+        width: 1031
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e916ecf83e0ff4438db8fe9f8a4ddb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2798
+        width: 1031
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d55e03b914d3964a8e06ce25fc7b22c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_16
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 2798
+        width: 1042
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5800815bf23887440a3f6b87ac571877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_17
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 2798
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cd9db61bbacf047ab2791de9723c20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_18
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 2798
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6786cc08ad091f498baa23e8f23b59a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_19
+      rect:
+        serializedVersion: 2
+        x: 4286
+        y: 2798
+        width: 1042
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c1b0693b70b1845b314b84e77ca3d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_20
+      rect:
+        serializedVersion: 2
+        x: 5360
+        y: 2798
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6caee72c4ef0f4d912d96bbe6ae494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_21
+      rect:
+        serializedVersion: 2
+        x: 6434
+        y: 2798
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40c49933b291754c8ec3a3e7e654b23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_22
+      rect:
+        serializedVersion: 2
+        x: 7509
+        y: 2798
+        width: 1042
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5054d9eb5082394cb7fd440162a5516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_23
+      rect:
+        serializedVersion: 2
+        x: 8583
+        y: 2798
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a053fd2ec01b7478e5585045e21c61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_24
+      rect:
+        serializedVersion: 2
+        x: 9657
+        y: 2798
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39dfcce27750f24a8020db4802e4f6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_25
+      rect:
+        serializedVersion: 2
+        x: 10732
+        y: 2798
+        width: 1042
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf151eb842d54141a434e3eaccd9c84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_26
+      rect:
+        serializedVersion: 2
+        x: 11806
+        y: 2798
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b8b23f5892061428bf896cc9e55c8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_27
+      rect:
+        serializedVersion: 2
+        x: 12880
+        y: 2798
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a3fd497c9bde642b5e8602080c137d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_28
+      rect:
+        serializedVersion: 2
+        x: 13955
+        y: 2798
+        width: 1042
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058a7fc5cce1bbf49ab9f32f676f3a4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_29
+      rect:
+        serializedVersion: 2
+        x: 15029
+        y: 2798
+        width: 1031
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6071e6ed841304fbafc3295a014e68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2240
+        width: 1031
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdbbe63943069f42bef3cc2843d28a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_31
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 2240
+        width: 1042
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744ed635953bcd6448cf292d9cbfbc4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_32
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 2240
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b7a501c5d7a8a4280e5de96f9a6fb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_33
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 2240
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2d0cda581efa743b620f616e5f7992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_34
+      rect:
+        serializedVersion: 2
+        x: 4286
+        y: 2240
+        width: 1042
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83841c18812939f4daa938ff66ba70e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_35
+      rect:
+        serializedVersion: 2
+        x: 5360
+        y: 2240
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69ed88970f595d49a0ce85bbf03b23e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_36
+      rect:
+        serializedVersion: 2
+        x: 6434
+        y: 2240
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92cf5909fd0d9648ad518d45e75506d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_37
+      rect:
+        serializedVersion: 2
+        x: 7509
+        y: 2240
+        width: 1042
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09d9a549e1d05e498684672925b2383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_38
+      rect:
+        serializedVersion: 2
+        x: 8583
+        y: 2240
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a418f7f65ab021547bb23017146a6b52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_39
+      rect:
+        serializedVersion: 2
+        x: 9657
+        y: 2240
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64c0c16d8c1d0f4cbb62a6cf22348af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_40
+      rect:
+        serializedVersion: 2
+        x: 10732
+        y: 2240
+        width: 1042
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fac20fd784fc843ba5afc996c478f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_41
+      rect:
+        serializedVersion: 2
+        x: 11806
+        y: 2240
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57b7505efa18944aa3284004a85a7e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_42
+      rect:
+        serializedVersion: 2
+        x: 12880
+        y: 2240
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36d8ef1bf62b5646a88517a5ebcfff6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_43
+      rect:
+        serializedVersion: 2
+        x: 13955
+        y: 2240
+        width: 1042
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79c4182034fae445879ae5dfb9d5820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_44
+      rect:
+        serializedVersion: 2
+        x: 15029
+        y: 2240
+        width: 1031
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0801b0cd70cbed4d8d69bb97059900c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1675
+        width: 1031
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3701e35fc95ae745b3c9d78df998ce6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_46
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1675
+        width: 1042
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7dfd861bc663b4290e23199eff29e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_47
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 1675
+        width: 1043
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3f75ba733fc344c85f7d9de995baf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_48
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 1675
+        width: 1043
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b47457ce7854394a861e96c13dcc848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_49
+      rect:
+        serializedVersion: 2
+        x: 4286
+        y: 1675
+        width: 1042
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e989cdb5cee384ab08cf5538047291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_50
+      rect:
+        serializedVersion: 2
+        x: 5360
+        y: 1675
+        width: 1043
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7978f2c7a75cc2743968ab7d5090d3cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_51
+      rect:
+        serializedVersion: 2
+        x: 6434
+        y: 1675
+        width: 1043
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c222b6350c399f4eb826c264763ee6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_52
+      rect:
+        serializedVersion: 2
+        x: 7509
+        y: 1675
+        width: 1042
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287f7de2be12bf64db1db9dbec10eade
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_53
+      rect:
+        serializedVersion: 2
+        x: 8583
+        y: 1675
+        width: 1043
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc3391bc6e8d8a4c9201dcadc6c712a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_54
+      rect:
+        serializedVersion: 2
+        x: 9657
+        y: 1675
+        width: 1043
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09904bfbb7279d42a2d930da2f93483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_55
+      rect:
+        serializedVersion: 2
+        x: 10732
+        y: 1675
+        width: 1042
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077f9c45c29e0d3409c22b1346a2f29a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_56
+      rect:
+        serializedVersion: 2
+        x: 11806
+        y: 1675
+        width: 1043
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64302fb43002a340bd2bf76b7253104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_57
+      rect:
+        serializedVersion: 2
+        x: 12880
+        y: 1675
+        width: 1043
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670f85b4ccf402d40aed8fed6faaeccf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_58
+      rect:
+        serializedVersion: 2
+        x: 13955
+        y: 1675
+        width: 1042
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8422a18acf262a643a99460e76104aad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_59
+      rect:
+        serializedVersion: 2
+        x: 15029
+        y: 1675
+        width: 1031
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d5f45a11d7966478e361a925596c5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1111
+        width: 1031
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25a0344439b6ae4b87912e2a6fc3c1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_61
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1111
+        width: 1042
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a6a6bcaa22b2849b4c5ab714dae59f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_62
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 1111
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8f3ddd5f3238646bfe07dd1b4a5cb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_63
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 1111
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997270c9559072946a1e0ac49137f3d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_64
+      rect:
+        serializedVersion: 2
+        x: 4286
+        y: 1111
+        width: 1042
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ffb4469abad0d41adb1d795d2f82cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_65
+      rect:
+        serializedVersion: 2
+        x: 5360
+        y: 1111
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88a6ef7c1771304e823b424b161b8fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_66
+      rect:
+        serializedVersion: 2
+        x: 6434
+        y: 1111
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b21f73add5dfb549bfeb4a5b6ef1768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_67
+      rect:
+        serializedVersion: 2
+        x: 7509
+        y: 1111
+        width: 1042
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d22a2aba85356b4abe55be9ffbb0ae5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_68
+      rect:
+        serializedVersion: 2
+        x: 8583
+        y: 1111
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc847a79e4df444abf33d0da9cc3ac9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_69
+      rect:
+        serializedVersion: 2
+        x: 9657
+        y: 1111
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8003a964743780f4d9b3eec52743ca82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_70
+      rect:
+        serializedVersion: 2
+        x: 10732
+        y: 1111
+        width: 1042
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2f628c887ddde40ba741fce6b7f3b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_71
+      rect:
+        serializedVersion: 2
+        x: 11806
+        y: 1111
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06e2a39c82073c4793d1b39e70972b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_72
+      rect:
+        serializedVersion: 2
+        x: 12880
+        y: 1111
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e123db27466d2694ba8bc242c1e22fc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_73
+      rect:
+        serializedVersion: 2
+        x: 13955
+        y: 1111
+        width: 1042
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe41b9e20b568624b88a7a26c594dd9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_74
+      rect:
+        serializedVersion: 2
+        x: 15029
+        y: 1111
+        width: 1031
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408627f3b8b7c4443b1559f435e218c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 553
+        width: 1031
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ed873e62e3e5a42b8f5de07af241a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_76
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 553
+        width: 1042
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62866491220fae84d8c8d5705c5120ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_77
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 553
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8bdc3134e56bc459f3961bc8d31cb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_78
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 553
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1362d32e0ebedec41a568b7dcab19a78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_79
+      rect:
+        serializedVersion: 2
+        x: 4286
+        y: 553
+        width: 1042
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d095415f66e7324896609fe9ee2cee4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_80
+      rect:
+        serializedVersion: 2
+        x: 5360
+        y: 553
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dd3aa01ab1c54469c23517cdff3d54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_81
+      rect:
+        serializedVersion: 2
+        x: 6434
+        y: 553
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcf1404cc4e9594c8f57573b60c9018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_82
+      rect:
+        serializedVersion: 2
+        x: 7509
+        y: 553
+        width: 1042
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a89a0e013e3ae4595f438575efeab2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_83
+      rect:
+        serializedVersion: 2
+        x: 8583
+        y: 553
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a405494f25df6b6499cbf285fb019856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_84
+      rect:
+        serializedVersion: 2
+        x: 9657
+        y: 553
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c08dd9296a6234fb6c136ec89f8bd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_85
+      rect:
+        serializedVersion: 2
+        x: 10732
+        y: 553
+        width: 1042
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fe3d7664f6a884e918950e0b3b768a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_86
+      rect:
+        serializedVersion: 2
+        x: 11806
+        y: 553
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0c6ce0d8afafe478035897e8906ff5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_87
+      rect:
+        serializedVersion: 2
+        x: 12880
+        y: 553
+        width: 1043
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8f37c4db3454c4182cd5ff56488948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_88
+      rect:
+        serializedVersion: 2
+        x: 13955
+        y: 553
+        width: 1042
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16c2e15dcd07204db7251db633e79a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_89
+      rect:
+        serializedVersion: 2
+        x: 15029
+        y: 553
+        width: 1031
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a17f64dc74f59438576ec0aa8e3471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1031
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ac546e0a4bda647ad58de860ac867f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_91
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 0
+        width: 1042
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90eed605a8d5eb45935a37423069452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_92
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 0
+        width: 1043
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80430793fa1c96045ba92803861da0e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_93
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 0
+        width: 1043
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b93005c869a564c913179ba8cd34bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_94
+      rect:
+        serializedVersion: 2
+        x: 4286
+        y: 0
+        width: 1042
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5d905d8d8f3044580d9c4e967e4555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_95
+      rect:
+        serializedVersion: 2
+        x: 5360
+        y: 0
+        width: 1043
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfc35ce72c1e0e45b4b13d93f732d5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_96
+      rect:
+        serializedVersion: 2
+        x: 6434
+        y: 0
+        width: 1043
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0874172ec3ffc8458b36bb0e4fc6239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_97
+      rect:
+        serializedVersion: 2
+        x: 7509
+        y: 0
+        width: 1042
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7238ea8bf29ca34486d650551f6932b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_98
+      rect:
+        serializedVersion: 2
+        x: 8583
+        y: 0
+        width: 1043
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0115e62025115054baea73faa65e2456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_99
+      rect:
+        serializedVersion: 2
+        x: 9657
+        y: 0
+        width: 1043
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d298a3b63689046499a6015b83b4b875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_100
+      rect:
+        serializedVersion: 2
+        x: 10732
+        y: 0
+        width: 1042
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901cc8a823db7a94abf49cf3d3e56c4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_101
+      rect:
+        serializedVersion: 2
+        x: 11806
+        y: 0
+        width: 1043
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3242a9e3acdc364e9fe2a046ab4290e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_102
+      rect:
+        serializedVersion: 2
+        x: 12880
+        y: 0
+        width: 1043
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba0c69814e48b1439c562ea2fc998ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_103
+      rect:
+        serializedVersion: 2
+        x: 13955
+        y: 0
+        width: 1042
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac05d5ca6af66174dbc6dfc91b5c8647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conversation_104
+      rect:
+        serializedVersion: 2
+        x: 15029
+        y: 0
+        width: 1031
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3581e0520b0e9774483e0a837b1d8f56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8c88fa7d943a73e4c9746e6141e20177
     vertices: []
     indices: 
     edges: []
